@@ -1,0 +1,14 @@
+{
+  "name": "@ponch012/package-edgar",
+  "version": "1.0.0",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "poncho02/npm_module",
+  "main": "index.js",
+  "keywords": [
+    "poncho",
+    "npm",
+    "package",
+    "bamblehorse"
+  ]
+}
